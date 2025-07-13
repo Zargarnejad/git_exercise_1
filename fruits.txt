@@ -1,5 +1,5 @@
 Apple
-Strawberry
+Pear 
 Orange
 Banana
-Coconut
+Papaya
